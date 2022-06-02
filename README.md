@@ -1,12 +1,12 @@
-# Widget para aplicações Web e Mobile com finalizade de envio de Feedbacks para a central de suporte.
+# Widget para aplicações Web e Mobile com finalidade de envio de Feedbacks para a central de suporte.
 
-- Instalação
+## . Instalação
 
-# npm install
+**- npm install**
 
-- Rodar o projeto
+## . Rodar o projeto
 
-# npm run dev
+**- npm run dev**
 
 <div align="center" >
   <img src="/src/assets/readme.png" width="700px">
