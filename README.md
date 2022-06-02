@@ -2,8 +2,12 @@
 
 - Instalação
 
-* npm install
+# npm install
 
 - Rodar o projeto
 
-* npm run dev
+# npm run dev
+
+<div align="center" >
+  <img src="/src/assets/readme.png" width="700px">
+</div>
