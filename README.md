@@ -1,3 +1,9 @@
-## FeedWid
+# FeedWid
 
-###### Aplicativo de Feedback multiplataforma
+## Aplicativo de Feedback multiplataforma
+
+###### 💻 Tecnologias
+
+###### 🚀 Projeto
+
+###### ✏️ Layout
