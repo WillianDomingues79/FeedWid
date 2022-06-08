@@ -32,6 +32,8 @@
 O Projeto constitui em um aplicativo independente e multiplataforma(Web e Mobile) para envio de feedbacks dos usuários, onde esses feedbacks podem ser enviados como: <u>_Problema_</u>, <u>_Ideia_</u> e <u>_Outros_</u>.
 Todo Feedback feito atraves da aplicação é enviado ao <u>_banco de dados_</u> e tambem enviado um <u>_email_</u> para o suporte onde é possível receber todas as informações e um screenshot da tela caso o usuário queira.
 
+Aplicação pode ser testada -> [Aqui](https://feed-wid-lake.vercel.app/)
+
 ---
 
 ### ✏️ Layout
